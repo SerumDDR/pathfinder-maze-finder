@@ -20,7 +20,7 @@ A Java-based maze generation and solving application. This project uses custom d
 
 ## Visual Demo
 *(Add a screenshot of the solved maze here)*
-![Pathfinder Demo](placeholder_image.png)
+![Pathfinder Demo](solved_maze.png)
 
 ## How to Run
 1.  Compile all `.java` files: `javac *.java`
